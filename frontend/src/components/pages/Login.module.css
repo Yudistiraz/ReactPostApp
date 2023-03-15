@@ -1,0 +1,30 @@
+.content {
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: rgb(38,38,38);
+    background: linear-gradient(246deg, rgba(38,38,38,1) 0%, rgba(0,0,0,1) 100%);
+
+}
+
+.formitem{
+    margin-bottom: 20px;
+}
+
+.buttonSection{
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.form {
+    width: 40%;
+}
+
+.label {
+    font-weight: 500;
+    color: white;
+
+}

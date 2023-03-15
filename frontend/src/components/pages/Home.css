@@ -1,0 +1,10 @@
+.HomeContainer {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    flex-direction: column;
+    background: rgb(38,38,38);
+    background: linear-gradient(246deg, rgba(38,38,38,1) 0%, rgba(0,0,0,1) 100%);
+}
